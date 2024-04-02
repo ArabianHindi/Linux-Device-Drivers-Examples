@@ -21,7 +21,7 @@ You also need the build utils (make, gcc, ...) but they come preinstalled on Ras
 
 ## Content
 
-In this repo you can will find examples for:
+In this repo you will find examples for:
 1. Simple Kernel Module
 2. Device Numbers and Device Files
 3. Create device file in driver and callbacks
